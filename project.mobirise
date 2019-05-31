@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -651,16 +651,16 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c2c2c2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -676,7 +676,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-j"
+          "_anchor": "msg-box2-l"
         }
       ]
     },
