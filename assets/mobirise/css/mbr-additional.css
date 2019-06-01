@@ -47,3 +47,25 @@
 #ext_menu-5 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box2-k .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: right;
+}
+#msg-box2-k .mbr-article {
+  color: #252525;
+}
+#msg-box2-l .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-l .mbr-article {
+  color: #252525;
+}
