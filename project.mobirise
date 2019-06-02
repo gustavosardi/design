@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -270,8 +270,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/chica-planta-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chica-planta-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alefeather-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alefeather-800x533-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
