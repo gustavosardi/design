@@ -283,7 +283,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/3-shirts-1920x1280.jpg",
@@ -339,15 +339,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/alefeather-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alefeather-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/adrian-1920x1280.jpg",
