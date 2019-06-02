@@ -786,144 +786,64 @@
             "bgColor": "#c1c1c1",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-4-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-4-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/chica-planta-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chica-planta-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-6-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-6-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jesssica-eyelids-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jesssica-eyelids-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/3-shirts-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-shirts-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmniotica-1400x1579.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmniotica-1400x1579-800x902.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/jump-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jump-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cirque-r-1300x941.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cirque-r-1300x941-800x579.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/howard-sit-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/howard-sit-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pierrete-illustre-1400x2108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pierrete-illustre-1400x2108-800x1205.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/w-cap-1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/w-cap-1-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dak-festiva-2000x1426.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dak-festiva-2000x1426-800x570.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/beige-jacket-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/beige-jacket-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/caliente-1200x1805.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/caliente-1200x1805-800x1203.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/howard-3-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/howard-3-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/louvra-1800x1350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louvra-1800x1350-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/brogan-yellow-2000x1328.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brogan-yellow-2000x1328-800x531.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/alefeather-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alefeather-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/adrian-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/adrian-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hispaniola-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hispaniola-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/alegreen-1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alegreen-1-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/lazo-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lazo-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sarah-tabac-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-tabac-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sarah-feline-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-feline-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/jesssica-eyelids-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jesssica-eyelids-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/swirlina-1400x2108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swirlina-1400x2108-800x1205.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
