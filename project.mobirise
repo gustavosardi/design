@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -1212,7 +1212,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#c2c2c2",
+            "bgColor": "#ffffff",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/layout-2-1920x1280.jpg",
@@ -1220,12 +1220,11 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "GRAPHIC DESIGN",
+                "title": "Slide 3",
                 "contentAlign": "center",
-                "text": "The intersection of art &amp; communication<br>Gustavo Sardi",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
-                "overlay": true,
-                "overlayColor": "#000000"
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
+                "overlay": true
               }
             ]
           },
@@ -1234,7 +1233,7 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-9"
+          "_anchor": "slider-n"
         }
       ]
     }
