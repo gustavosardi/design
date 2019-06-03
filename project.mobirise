@@ -1224,7 +1224,7 @@
                 "contentAlign": "center",
                 "text": "",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
-                "overlay": false
+                "overlay": true
               }
             ]
           },
