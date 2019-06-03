@@ -87,8 +87,19 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/layout-1-1920x1280.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1920xshoe-vintage-1920x863.jpg",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "PHOTOGRAPHY",
+                "contentAlign": "center",
+                "text": "At the service of merchandising",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/layout-1-1920x1280.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -97,17 +108,6 @@
                 "text": "The Intersection of Art &amp; Communication",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
                 "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/1920xshoe-vintage-1920x863.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "PHOTOGRAPHY",
-                "contentAlign": "center",
-                "text": "At the service of merchandising",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/zebrina-1920x1280.jpg",
