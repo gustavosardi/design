@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1131,7 +1131,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
