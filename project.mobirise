@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2",
-    "currentPage": "page3.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -778,20 +778,12 @@
             "bgColor": "#c1c1c1",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/jesssica-eyelids-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jesssica-eyelids-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/mmniotica-1400x1579.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mmniotica-1400x1579-800x902.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cirque-r-1300x941.jpg",
@@ -836,6 +828,14 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/swirlina-1400x2108.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/swirlina-1400x2108-800x1205.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/caliente-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/caliente-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
