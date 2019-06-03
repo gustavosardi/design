@@ -783,7 +783,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cirque-r-1300x941.jpg",
@@ -831,11 +831,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/paper-art-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paper-art-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/caliente-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/caliente-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zebrina-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zebrina-1-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
