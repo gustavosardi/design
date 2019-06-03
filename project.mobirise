@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1223,7 +1223,7 @@
                 "title": "Slide 1",
                 "contentAlign": "center",
                 "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
                 "overlay": true
               }
             ]
