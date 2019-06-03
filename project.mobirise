@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -88,7 +88,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1920xshoe-vintage-1920x863.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -111,7 +111,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/zebrina-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -744,7 +744,7 @@
                 "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">ENTER<br></a>",
                 "overlay": false
