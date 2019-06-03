@@ -848,6 +848,14 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dakotah-art-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dakotah-art-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
