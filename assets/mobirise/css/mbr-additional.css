@@ -78,6 +78,9 @@
 #ext_menu-5.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
+#ext_menu-5 .mbr-navbar__section {
+  background: #2c2c2c;
+}
 #ext_menu-5 .mbr-navbar__hamburger {
   color: #3d8eb9;
 }
