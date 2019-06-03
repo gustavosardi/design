@@ -1219,12 +1219,13 @@
                 "active": true,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": false,
-                "title": "Slide 1",
+                "showTitle": true,
+                "title": "GRAPHIC DESIGN",
                 "contentAlign": "center",
-                "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
-                "overlay": true
+                "text": "The intersection of art &amp; communication<br>Gustavo Sardi",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
+                "overlay": true,
+                "overlayColor": "#000000"
               }
             ]
           },
