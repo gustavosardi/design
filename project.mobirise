@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1107,7 +1107,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#c2c2c2",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
