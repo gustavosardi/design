@@ -926,183 +926,6 @@
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c2c2c2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GUSTAVO SARDI<br>PHOTOGRAPHY",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-k"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": false,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#c2c2c2",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/shoes1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shoes1-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shoes2-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shoes2-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shoes3-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shoes3-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shirts-1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shirts-1-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/suits1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/suits1-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shoes-legs-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shoes-legs-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shoes-legs2-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shoes-legs2-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pants-double-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pants-double-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/velvet-slipper-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/velvet-slipper-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-2-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-2-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shoe-still-1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shoe-still-1-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shoestill-brubne-3-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shoestill-brubne-3-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/floor-shirts-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/floor-shirts-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/vintage-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vintage-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/floor-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/floor-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-h"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
             "showTitle": false,
             "showText": false,
             "showButtons": false,
@@ -1121,14 +944,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-l"
+          "_anchor": "msg-box2-k"
         }
       ]
     }
